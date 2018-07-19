@@ -1,0 +1,25 @@
+{
+  "name": "generator-jhipster-orphan-neutralizer",
+  "version": "1.0.0",
+  "description": "JHipster cleanup utility for orphaned classes in the baseline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarongilliland/generator-jhipster-orphan-neutralizer.git"
+  },
+  "keywords": [
+    "jhipster",
+    "sub-generator",
+    "template",
+    "yeoman"
+  ],
+  "author": "Aaron Gilliland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarongilliland/generator-jhipster-orphan-neutralizer/issues"
+  },
+  "homepage": "https://github.com/aarongilliland/generator-jhipster-orphan-neutralizer#readme"
+}
